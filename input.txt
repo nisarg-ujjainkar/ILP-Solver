@@ -1,0 +1,15 @@
+width 1920
+var Si
+var Sbx
+var Sby
+var Sd
+var Ssc
+var So
+con 1*Sbx-1*Si>=3w
+con 1*Sby-1*Sbx>=3l
+con 1*Sd-1*Sby>=1w
+con 1*Sd-1*Si>=1w
+con 1*Ssc-1*Sd>=1w
+con 1*So-1*Ssc>=1w
+con 1*So-1*Si>=1w
+#obj 2*So-3*Si+1*Sd

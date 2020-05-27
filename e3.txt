@@ -1,0 +1,12 @@
+width 1920
+var Si
+var Sa
+var Sb
+var Sc
+var So
+con 1*Sa-1*Si>=3l*3w
+con 1*Sb-1*Sa>=3l*3w
+con 1*Sc-1*Sa>=1w
+con 1*Sb-1*Sc>=1w
+con 1*So-1*Si>=1w
+con 1*So-1*Sb>=1w

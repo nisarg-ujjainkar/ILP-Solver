@@ -1,0 +1,4 @@
+*.d.py
+con.py
+.vscode
+__pycache__
