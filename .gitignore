@@ -1,4 +1,5 @@
 *.d.py
 con.py
+simplex.py
 .vscode
 __pycache__
